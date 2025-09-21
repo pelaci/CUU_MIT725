@@ -1,0 +1,103 @@
+Transaction ID,Customer ID,Merchant ID,Purchase Date,Item Description,Purchase Amount ($),BNPL Provider,Installment Plan,First Installment Amount ($),First Installment Status,Risk Score,Customer Lifetime Value ($),Transaction Channel,Time of Day,Late Payment Fee ($),Missed Payments Count
+T0001,C2824,M49,4/13/2025,Drone,24.57,Tamara,6 monthly payments,4.1,Paid,0.0806,521.74,Web,Afternoon,0,0
+T0002,C1409,M66,4/17/2025,Sofa,90.56,Zip Co,4 payments / 6 weeks,22.64,Late,0.1472,384.44,Web,Night,15,0
+T0003,C5506,M14,3/13/2025,Winter Jacket,37.32,Affirm,6 monthly payments,6.22,Paid,0.298,1467.54,Mobile App,Night,0,0
+T0004,C5012,M84,7/8/2025,Coffee Machine,112.32,Afterpay,4 payments / 6 weeks,28.08,Paid,0.0898,618.76,Web,Morning,0,0
+T0005,C4657,M56,1/21/2025,Camping Tent,120.78,Klarna,6 monthly payments,20.13,Paid,0.9108,237.98,Mobile App,Afternoon,0,0
+T0006,C6916,M54,4/3/2025,Tablet,78.27,Affirm,12 monthly payments,6.52,Paid,0.2933,407.03,In-Store,Evening,0,0
+T0007,C5943,M62,3/1/2025,Gaming Console,165.71,Afterpay,4 payments / 6 weeks,41.43,Paid,0.306,128.52,Web,Afternoon,0,0
+T0008,C7123,M30,6/5/2025,Laptop,63.15,Klarna,4 payments / 6 weeks,15.79,Paid,0.8541,757.29,Mobile App,Night,0,0
+T0009,C6136,M37,8/14/2025,Winter Jacket,60.83,Klarna,4 payments / 6 weeks,15.21,Paid,0.1396,447.88,Web,Morning,0,0
+T0010,C9579,M71,4/12/2025,Home Decor Set,31.7,Afterpay,4 payments / 6 weeks,7.93,Paid,0.201,313.11,Web,Afternoon,0,0
+T0011,C2216,M85,2/13/2025,Headphones,87.05,Klarna,4 payments / 6 weeks,21.76,Paid,0.8174,472.93,Mobile App,Night,0,0
+T0012,C1518,M55,4/4/2025,Coffee Machine,112.08,Affirm,4 payments / 6 weeks,28.02,Paid,0.0125,716.03,Mobile App,Morning,0,0
+T0013,C3480,M73,8/16/2025,Home Decor Set,32.41,Afterpay,4 payments / 6 weeks,8.1,Paid,0.4072,403.45,Web,Evening,0,0
+T0014,C4273,M53,5/18/2025,Camera Lens,113.84,Klarna,4 payments / 6 weeks,28.46,Paid,0.3995,334.33,Web,Afternoon,0,0
+T0015,C4234,M30,5/18/2025,Camera Lens,165.57,Klarna,4 payments / 6 weeks,41.39,Paid,0.9252,385.12,Web,Afternoon,0,0
+T0016,C9764,M27,5/15/2025,Coffee Machine,69.58,Afterpay,4 payments / 6 weeks,17.39,Paid,0.8653,165.25,In-Store,Evening,0,0
+T0017,C6774,M96,3/24/2025,Sofa,108.83,Affirm,4 payments / 6 weeks,27.21,Paid,0.573,598.11,Web,Evening,0,0
+T0018,C6274,M66,1/28/2025,Home Decor Set,102.59,Klarna,4 payments / 6 weeks,25.65,Paid,0.5268,235.19,Web,Night,0,0
+T0019,C8370,M41,6/3/2025,Winter Jacket,80.18,Zip Co,4 payments / 6 weeks,20.04,Paid,0.9419,267.4,Mobile App,Afternoon,0,0
+T0020,C7461,M87,1/8/2025,Headphones,30.34,Klarna,4 payments / 6 weeks,7.59,Paid,0.0768,521.82,Web,Evening,0,0
+T0021,C7339,M94,4/4/2025,Headphones,241.6,Affirm,6 monthly payments,40.27,Paid,0.201,348.69,Web,Morning,0,0
+T0022,C1132,M60,8/14/2025,Laptop,85.27,Klarna,4 payments / 6 weeks,21.32,Paid,0.4552,143.61,Web,Night,0,0
+T0023,C1304,M92,6/25/2025,Kitchen Appliance,147.16,Afterpay,4 payments / 6 weeks,36.79,Paid,0.4222,488.72,Web,Evening,0,0
+T0024,C7721,M49,6/4/2025,Smartphone,343.83,Affirm,12 monthly payments,28.65,Paid,0.8558,266.01,Web,Morning,0,0
+T0025,C7984,M20,6/3/2025,Headphones,61.94,Klarna,4 payments / 6 weeks,15.49,Paid,0.6136,548.8,Mobile App,Evening,0,0
+T0026,C1683,M53,7/28/2025,Winter Jacket,122.99,Klarna,4 payments / 6 weeks,30.75,Paid,0.1102,469.75,Mobile App,Afternoon,0,0
+T0027,C6773,M57,4/20/2025,Headphones,62.88,Afterpay,4 payments / 6 weeks,15.72,Paid,0.6052,284.15,Mobile App,Evening,0,0
+T0028,C1665,M21,8/17/2025,Headphones,73.5,Klarna,4 payments / 6 weeks,18.38,Paid,0.584,334.62,In-Store,Evening,0,0
+T0029,C7859,M87,6/5/2025,Coffee Machine,127.39,Klarna,4 payments / 6 weeks,31.85,Paid,0.1764,420.08,Mobile App,Evening,0,0
+T0030,C4148,M86,5/18/2025,Coffee Machine,117.84,Afterpay,4 payments / 6 weeks,29.46,Paid,0.1657,308.23,Mobile App,Afternoon,0,0
+T0031,C2248,M42,7/24/2025,Smartphone,449.6,Affirm,12 monthly payments,37.47,Paid,0.3951,757.94,Web,Afternoon,0,0
+T0032,C5645,M17,1/20/2025,Laptop,85.16,Klarna,4 payments / 6 weeks,21.29,Paid,0.8652,652.27,Web,Morning,0,0
+T0033,C6757,M50,5/10/2025,Tablet,128.84,Klarna,4 payments / 6 weeks,32.21,Paid,0.6481,424.81,Mobile App,Evening,0,0
+T0034,C3005,M83,2/4/2025,Kitchen Appliance,117.83,Afterpay,4 payments / 6 weeks,29.46,Paid,0.1979,520.18,Web,Morning,0,0
+T0035,C2892,M94,8/16/2025,Headphones,54.7,Klarna,4 payments / 6 weeks,13.68,Paid,0.1171,489.15,Web,Afternoon,0,0
+T0036,C2046,M78,8/5/2025,Laptop,108.77,Klarna,4 payments / 6 weeks,27.19,Paid,0.6698,591.68,Mobile App,Evening,0,0
+T0037,C1683,M53,5/24/2025,Travel Luggage,179.94,Affirm,6 monthly payments,29.99,Paid,0.1102,469.75,Mobile App,Evening,0,0
+T0038,C9173,M92,4/18/2025,Headphones,24.08,Klarna,4 payments / 6 weeks,6.02,Paid,0.7816,423.57,Web,Evening,0,0
+T0039,C6136,M37,8/14/2025,Winter Jacket,68.85,Klarna,4 payments / 6 weeks,17.21,Paid,0.1396,447.88,Web,Morning,0,0
+T0040,C9200,M41,4/20/2025,Headphones,63.15,Afterpay,4 payments / 6 weeks,15.79,Paid,0.2229,190.67,Mobile App,Afternoon,0,0
+T0041,C7859,M87,6/5/2025,Coffee Machine,113.84,Klarna,4 payments / 6 weeks,28.46,Paid,0.1764,420.08,Mobile App,Evening,0,0
+T0042,C2475,M77,3/22/2025,Winter Jacket,36.56,Afterpay,4 payments / 6 weeks,9.14,Paid,0.8519,252.12,In-Store,Morning,0,0
+T0043,C2892,M94,8/16/2025,Headphones,71.22,Klarna,4 payments / 6 weeks,17.8,Paid,0.1171,489.15,Web,Afternoon,0,0
+T0044,C6774,M96,3/24/2025,Sofa,106.63,Affirm,4 payments / 6 weeks,26.66,Paid,0.573,598.11,Web,Evening,0,0
+T0045,C5091,M78,1/26/2025,Gaming Console,138.86,Afterpay,4 payments / 6 weeks,34.72,Paid,0.9255,251.36,Web,Morning,0,0
+T0046,C4273,M53,5/18/2025,Camera Lens,122.6,Klarna,4 payments / 6 weeks,30.65,Paid,0.3995,334.33,Web,Afternoon,0,0
+T0047,C6773,M57,4/20/2025,Headphones,66.19,Afterpay,4 payments / 6 weeks,16.55,Paid,0.6052,284.15,Mobile App,Evening,0,0
+T0048,C3672,M55,3/12/2025,Headphones,62.88,Klarna,4 payments / 6 weeks,15.72,Paid,0.9419,266.01,Web,Afternoon,0,0
+T0049,C4623,M27,7/25/2025,Kitchen Appliance,147.38,Afterpay,4 payments / 6 weeks,36.85,Paid,0.6756,536.01,Mobile App,Night,0,0
+T0050,C5506,M14,3/13/2025,Winter Jacket,43.23,Affirm,6 monthly payments,7.2,Paid,0.298,1467.54,Mobile App,Night,0,0
+T0051,C4234,M30,5/18/2025,Camera Lens,147.38,Klarna,4 payments / 6 weeks,36.85,Paid,0.9252,385.12,Web,Afternoon,0,0
+T0052,C8472,M44,5/12/2025,Home Decor Set,108.6,Klarna,4 payments / 6 weeks,27.15,Paid,0.1601,310.87,Web,Morning,0,0
+T0053,C7545,M17,6/25/2025,Smart Watch,175.78,Klarna,4 payments / 6 weeks,43.94,Paid,0.063,334.62,In-Store,Morning,0,0
+T0054,C1683,M53,7/28/2025,Winter Jacket,122.99,Klarna,4 payments / 6 weeks,30.75,Paid,0.1102,469.75,Mobile App,Afternoon,0,0
+T0055,C5091,M78,1/26/2025,Gaming Console,130.65,Afterpay,4 payments / 6 weeks,32.66,Paid,0.9255,251.36,Web,Morning,0,0
+T0056,C5943,M62,3/1/2025,Gaming Console,175.78,Afterpay,4 payments / 6 weeks,43.94,Paid,0.306,128.52,Web,Afternoon,0,0
+T0057,C6774,M96,3/24/2025,Sofa,108.83,Affirm,4 payments / 6 weeks,27.21,Paid,0.573,598.11,Web,Evening,0,0
+T0058,C1665,M21,8/17/2025,Headphones,73.5,Klarna,4 payments / 6 weeks,18.38,Paid,0.584,334.62,In-Store,Evening,0,0
+T0059,C4234,M30,5/18/2025,Camera Lens,165.57,Klarna,4 payments / 6 weeks,41.39,Paid,0.9252,385.12,Web,Afternoon,0,0
+T0060,C5506,M14,3/13/2025,Winter Jacket,43.23,Affirm,6 monthly payments,7.2,Paid,0.298,1467.54,Mobile App,Night,0,0
+T0061,C9200,M41,4/20/2025,Headphones,63.15,Afterpay,4 payments / 6 weeks,15.79,Paid,0.2229,190.67,Mobile App,Afternoon,0,0
+T0062,C7339,M94,4/4/2025,Headphones,241.6,Affirm,6 monthly payments,40.27,Paid,0.201,348.69,Web,Morning,0,0
+T0063,C1304,M92,6/25/2025,Kitchen Appliance,147.16,Afterpay,4 payments / 6 weeks,36.79,Paid,0.4222,488.72,Web,Evening,0,0
+T0064,C6773,M57,4/20/2025,Headphones,62.88,Afterpay,4 payments / 6 weeks,15.72,Paid,0.6052,284.15,Mobile App,Evening,0,0
+T0065,C4623,M27,7/25/2025,Kitchen Appliance,147.38,Afterpay,4 payments / 6 weeks,36.85,Paid,0.6756,536.01,Mobile App,Night,0,0
+T0066,C1683,M53,7/28/2025,Winter Jacket,122.99,Klarna,4 payments / 6 weeks,30.75,Paid,0.1102,469.75,Mobile App,Afternoon,0,0
+T0067,C5943,M62,3/1/2025,Gaming Console,175.78,Afterpay,4 payments / 6 weeks,43.94,Paid,0.306,128.52,Web,Afternoon,0,0
+T0068,C9579,M71,4/12/2025,Home Decor Set,31.7,Afterpay,4 payments / 6 weeks,7.93,Paid,0.201,313.11,Web,Afternoon,0,0
+T0069,C6136,M37,8/14/2025,Winter Jacket,68.85,Klarna,4 payments / 6 weeks,17.21,Paid,0.1396,447.88,Web,Morning,0,0
+T0070,C5091,M78,1/26/2025,Gaming Console,138.86,Afterpay,4 payments / 6 weeks,34.72,Paid,0.9255,251.36,Web,Morning,0,0
+T0071,C6774,M96,3/24/2025,Sofa,108.83,Affirm,4 payments / 6 weeks,27.21,Paid,0.573,598.11,Web,Evening,0,0
+T0072,C6274,M66,1/28/2025,Home Decor Set,102.59,Klarna,4 payments / 6 weeks,25.65,Paid,0.5268,235.19,Web,Night,0,0
+T0073,C8370,M41,6/3/2025,Winter Jacket,80.18,Zip Co,4 payments / 6 weeks,20.04,Paid,0.9419,267.4,Mobile App,Afternoon,0,0
+T0074,C7461,M87,1/8/2025,Headphones,30.34,Klarna,4 payments / 6 weeks,7.59,Paid,0.0768,521.82,Web,Evening,0,0
+T0075,C2892,M94,8/16/2025,Headphones,71.22,Klarna,4 payments / 6 weeks,17.8,Paid,0.1171,489.15,Web,Afternoon,0,0
+T0076,C7859,M87,6/5/2025,Coffee Machine,127.39,Klarna,4 payments / 6 weeks,31.85,Paid,0.1764,420.08,Mobile App,Evening,0,0
+T0077,C4148,M86,5/18/2025,Coffee Machine,117.84,Afterpay,4 payments / 6 weeks,29.46,Paid,0.1657,308.23,Mobile App,Afternoon,0,0
+T0078,C2248,M42,7/24/2025,Smartphone,449.6,Affirm,12 monthly payments,37.47,Paid,0.3951,757.94,Web,Afternoon,0,0
+T0079,C5645,M17,1/20/2025,Laptop,85.16,Klarna,4 payments / 6 weeks,21.29,Paid,0.8652,652.27,Web,Morning,0,0
+T0080,C6757,M50,5/10/2025,Tablet,128.84,Klarna,4 payments / 6 weeks,32.21,Paid,0.6481,424.81,Mobile App,Evening,0,0
+T0081,C3005,M83,2/4/2025,Kitchen Appliance,117.83,Afterpay,4 payments / 6 weeks,29.46,Paid,0.1979,520.18,Web,Morning,0,0
+T0082,C2892,M94,8/16/2025,Headphones,54.7,Klarna,4 payments / 6 weeks,13.68,Paid,0.1171,489.15,Web,Afternoon,0,0
+T0083,C2046,M78,8/5/2025,Laptop,108.77,Klarna,4 payments / 6 weeks,27.19,Paid,0.6698,591.68,Mobile App,Evening,0,0
+T0084,C1683,M53,5/24/2025,Travel Luggage,179.94,Affirm,6 monthly payments,29.99,Paid,0.1102,469.75,Mobile App,Evening,0,0
+T0085,C9173,M92,4/18/2025,Headphones,24.08,Klarna,4 payments / 6 weeks,6.02,Paid,0.7816,423.57,Web,Evening,0,0
+T0086,C6136,M37,8/14/2025,Winter Jacket,68.85,Klarna,4 payments / 6 weeks,17.21,Paid,0.1396,447.88,Web,Morning,0,0
+T0087,C9200,M41,4/20/2025,Headphones,63.15,Afterpay,4 payments / 6 weeks,15.79,Paid,0.2229,190.67,Mobile App,Afternoon,0,0
+T0088,C7859,M87,6/5/2025,Coffee Machine,113.84,Klarna,4 payments / 6 weeks,28.46,Paid,0.1764,420.08,Mobile App,Evening,0,0
+T0089,C2475,M77,3/22/2025,Winter Jacket,36.56,Afterpay,4 payments / 6 weeks,9.14,Paid,0.8519,252.12,In-Store,Morning,0,0
+T0090,C2892,M94,8/16/2025,Headphones,71.22,Klarna,4 payments / 6 weeks,17.8,Paid,0.1171,489.15,Web,Afternoon,0,0
+T0091,C6774,M96,3/24/2025,Sofa,106.63,Affirm,4 payments / 6 weeks,26.66,Paid,0.573,598.11,Web,Evening,0,0
+T0092,C5091,M78,1/26/2025,Gaming Console,138.86,Afterpay,4 payments / 6 weeks,34.72,Paid,0.9255,251.36,Web,Morning,0,0
+T0093,C4273,M53,5/18/2025,Camera Lens,122.6,Klarna,4 payments / 6 weeks,30.65,Paid,0.3995,334.33,Web,Afternoon,0,0
+T0094,C6773,M57,4/20/2025,Headphones,66.19,Afterpay,4 payments / 6 weeks,16.55,Paid,0.6052,284.15,Mobile App,Evening,0,0
+T0095,C3672,M55,3/12/2025,Headphones,62.88,Klarna,4 payments / 6 weeks,15.72,Paid,0.9419,266.01,Web,Afternoon,0,0
+T0096,C4623,M27,7/25/2025,Kitchen Appliance,147.38,Afterpay,4 payments / 6 weeks,36.85,Paid,0.6756,536.01,Mobile App,Night,0,0
+T0097,C5506,M14,3/13/2025,Winter Jacket,43.23,Affirm,6 monthly payments,7.2,Paid,0.298,1467.54,Mobile App,Night,0,0
+T0098,C4234,M30,5/18/2025,Camera Lens,147.38,Klarna,4 payments / 6 weeks,36.85,Paid,0.9252,385.12,Web,Afternoon,0,0
+T0099,C8472,M44,5/12/2025,Home Decor Set,108.6,Klarna,4 payments / 6 weeks,27.15,Paid,0.1601,310.87,Web,Morning,0,0
+T0100,C7545,M17,6/25/2025,Smart Watch,175.78,Klarna,4 payments / 6 weeks,43.94,Paid,0.063,334.62,In-Store,Morning,0,0
+T0101,C1683,M53,7/28/2025,Winter Jacket,122.99,Klarna,4 payments / 6 weeks,30.75,Paid,0.1102,469.75,Mobile App,Afternoon,0,0
+T0102,C5091,M78,1/26/2025,Gaming Console,130.65,Afterpay,4 payments / 6 weeks,,,,,,,,
